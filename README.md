@@ -1,1 +1,1 @@
-# -weth-access-module-cjs
+# weth-access-module-cjs
