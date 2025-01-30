@@ -163,6 +163,7 @@ class WethMethods {
 
 module.exports = {
   WethMethods,
+  weth9ABI,
   ETHEREUM,
   POLYGON,
   HARDHAT,
